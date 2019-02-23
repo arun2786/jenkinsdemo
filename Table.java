@@ -1,7 +1,7 @@
 class Table {
 	public static void main(String... args){
 
-		int n = 9;
+		int n = 4;
 
 		System.out.println("Number is : "+n);
 
